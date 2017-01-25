@@ -1,1 +1,1 @@
-# boa
+# Boa is almost the same as a python
